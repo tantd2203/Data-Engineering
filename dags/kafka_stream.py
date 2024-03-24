@@ -1,6 +1,7 @@
 import json
 import uuid
 from datetime import datetime
+
 # from airflow import DAG
 # from airflow.operators.python import PythonOperator
 
@@ -40,6 +41,8 @@ def format_data(res):
     return data
 
 # def stream_data():
+
+
 
 
 
